@@ -32,5 +32,5 @@ collation of sites of open source datasets for 3d mvs reconstrucion<br />
 同样是小物体重建，只有两个，拍摄的猫和狗的模型，同时提供了真值
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/4c3caf7362514b8c82d794c9886c87c6.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5p2O6L-O5p2-fg==,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-### 港科大开源的大量数据集，有建筑、雕塑、近景等各类数据[https://github.com/YoYo000/BlendedMVS](https://github.com/YoYo000/BlendedMVS)
+### 港科大开源的大量数据集，有建筑、雕塑、近景等各类数据[https://github.com/YoYo000/BlendedMVS](https://github.com/YoYo000/BlendedMVS) @@Thanks to [Yannnnnnnnnnnn](https://github.com/Yannnnnnnnnnnn)
 
